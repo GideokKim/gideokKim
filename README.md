@@ -12,8 +12,7 @@ profiling을 통한 성능 향상을 중요시합니다.
 
 ##### Programming Language
 - CUDA
-- C++
-- C
+- C, C++, OpenMP
 
 ##### Collaboration
 - Sourcetree
