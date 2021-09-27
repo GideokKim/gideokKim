@@ -1,4 +1,5 @@
 
+
 # 수학 전공자의 개발 이야기
 ### Development Story of Mathematician
 
@@ -23,4 +24,5 @@ profiling을 통한 성능 향상을 중요시합니다.
 - [ ] C++ 복습　　　　　　　　✍️ -ing ■■□□□□□□□□
 - [ ] Kotlin 공부　　　 　　　　✍️ -ing ■■■■□□□□□□
 - [ ] Git Bash 공부 　　　　　　✍️ -ing ■■□□□□□□□□
-- [ ] Computer Architecture 　　✍️ -ing □□□□□□□□□□
+- [ ] Computer Architecture 　　✍️ -ing ■□□□□□□□□□
+- [ ] Web Development 　　　　✍️ -ing ■□□□□□□□□□
