@@ -23,6 +23,6 @@ profiling을 통한 성능 향상을 중요시합니다.
 - [ ] C++ 복습　　　　　　　　✍️ -ing ■■■■□□□□□□
 - [ ] Kotlin 공부　　　 　　　　✍️ -ing ■■■■■■■□□□
 - [ ] Git 원리 공부 　　　　　　✍️ -ing ■■■■□□□□□□
-- [ ] Computer Architecture 　　✍️ -ing ■■■■■■□□□□
+- [ ] Computer Architecture 　　✍️ -ing ■■■■■■■□□□
 - [x] Web Dev BackEnd
 - [x] Web Development
