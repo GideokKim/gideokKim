@@ -17,7 +17,7 @@ profiling을 통한 성능 향상을 중요시합니다.
 ##### Collaboration
 - Sourcetree
 - git
-- 
+- Nsight
 
 
 ## 📝 To do list( ~ 21.12.31)
