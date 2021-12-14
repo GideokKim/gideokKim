@@ -10,7 +10,7 @@ profiling을 통한 성능 향상을 중요시합니다.
 
 ## 📖 Tech
 
-##### Programming Language
+##### Programming
 - CUDA(Single-GPU & Multi-GPU)
 - C, C++, OpenMP
 
