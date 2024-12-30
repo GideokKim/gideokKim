@@ -1,3 +1,5 @@
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BreadcrumbsgideokKim)](https://github.com/BreadcrumbsgideokKim/github-readme-stats)
+
 # Development Story of Mathematician
 ### Development Story of Mathematician
 
