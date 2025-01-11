@@ -4,9 +4,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gideokKim&layout=compact&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=gideokKim&theme=radical&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![opgc](https://api.opgc.me/githubs/users/gideokKim/tag/?theme=basic)](https://opgc.me/#/users/gideokKim)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=potatooftaebaek)](https://solved.ac/potatooftaebaek)
+[![opgc](https://api.opgc.me/githubs/users/gideokKim/tag/?theme=basic)](https://opgc.me/#/users/gideokKim)
 
 # Development Story of Mathematician
 
