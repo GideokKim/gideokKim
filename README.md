@@ -12,7 +12,7 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=potatooftaebaek" />
 </a>
 <a href="s">
-  <img src="https://api.opgc.me/githubs/users/gideokKim/tag/?theme=basic" width="50%" />
+  <img src="https://api.opgc.me/githubs/users/gideokKim/tag/?theme=basic" width="45%" />
 </a>
 
 # Development Story of Mathematician
