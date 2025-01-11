@@ -6,7 +6,7 @@
 
 <a href="https://opgc.me/#/users/gideokKim" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/gideokKim/tag/?theme=basic" /></a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=potatooftaebaek)](https://solved.ac/potatooftaebaek)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=potatooftaebaek)](https://solved.ac/potatooftaebaek)
 
 # Development Story of Mathematician
 
