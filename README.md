@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gideokKim&show_icons=true&theme=radical" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideokKim&layout=compact&theme=radical" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideokKim&layout=compact&theme=radical" width="35%" />
 </a>
 
 ![Gideok Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=gideokKim&show_icons=true&theme=radical)
