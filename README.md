@@ -1,4 +1,5 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gideokKim)](https://github.com/gideokKim/github-readme-stats)
+![Gideok Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=gideokKim&show_icons=true&theme=radical)
 
 <a href="https://opgc.me/#/users/gideokKim" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/gideokKim/tag/?theme=basic" /></a>
 
