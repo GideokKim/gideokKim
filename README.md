@@ -7,6 +7,14 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=potatooftaebaek)](https://solved.ac/potatooftaebaek)
 [![opgc](https://api.opgc.me/githubs/users/gideokKim/tag/?theme=basic)](https://opgc.me/#/users/gideokKim)
 
+
+<a href="s">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=potatooftaebaek" />
+</a>
+<a href="s">
+  <img src="https://api.opgc.me/githubs/users/gideokKim/tag/?theme=basic" width="42%" />
+</a>
+
 # Development Story of Mathematician
 
 ## 👨‍💻 Introdiction
