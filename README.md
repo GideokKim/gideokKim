@@ -12,7 +12,8 @@
 <a href="s">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=potatooftaebaek" />
 </a>
-![opgc](https://api.opgc.me/githubs/users/gideokKim/tag/?theme=dracula)](https://opgc.me/#/users/gideokKim)
+
+[![opgc](https://api.opgc.me/githubs/users/gideokKim/tag/?theme=dracula)](https://opgc.me/#/users/gideokKim)
 
 # Development Story of Mathematician
 
