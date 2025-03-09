@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGiDeokKim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=gideokKim&exclude_repo=GideokKim.github.io&show_icons=true&theme=radical&hide=Jupyter%20Notebook,HTML" /><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideokKim&theme=radical&layout=compact" /></div>
+<div><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=gideokKim&exclude_repo=GideokKim.github.io&show_icons=true&theme=radical&hide=Jupyter%20Notebook,HTML" /><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideokKim&theme=radical&layout=compact&exclude_repo=GideokKim.github.io&show_icons=true&hide=Jupyter%20Notebook,HTML" /></div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gideokKim&theme=radical&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
