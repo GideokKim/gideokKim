@@ -35,24 +35,21 @@ I am a Parallel Programming Developer with 5 years of experience, specializing i
 - **Parallel Computing**
   - CUDA (Single-GPU & Multi-GPU)
   - OpenMP
-  - MPI
   - SIMD (AVX, SSE)
   - GPU Memory Management
   - Parallel Algorithm Design
 - **Systems Programming**
   - C/C++
-  - Assembly
   - Memory Management
   - Performance Optimization
   - System Architecture
   - Low-level Programming
 - **Development Tools**
-  - Debugging: WinDbg, Nsight, GDB
-  - Profiling: VTune, Nsight Systems
+  - Debugging: WinDbg
+  - Profiling: Nsight Systems
   - Build Systems: Bazel
   - Version Control: Git
   - Containerization: Docker
-  - CI/CD: Jenkins
 
 ## 📚 Education & Experience
 
