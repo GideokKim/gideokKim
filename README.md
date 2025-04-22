@@ -106,15 +106,6 @@ I am a Parallel Programming Developer with 5 years of experience, specializing i
   <a href="https://www.linkedin.com/in/gideok-kim-113426253/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/gideokkim">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=gideokkim&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
-  </a>
 </div>
 
 <div align="center">
