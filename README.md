@@ -13,6 +13,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gideokKim&theme=radical&row=2&column=5" />
 </div>
 
+<div align="center">
+  <a href="https://www.credly.com/badges/6fab7fd6-df48-4c65-966d-998eb8510047">
+    <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure AI Fundamentals" width="150" height="150">
+  </a>
+</div>
+
 ## 👨‍💻 About Me
 
 > *"Turning complex mathematical problems into elegant code solutions"*
