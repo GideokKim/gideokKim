@@ -91,12 +91,6 @@ I am a Parallel Programming Developer with 5 years of experience, specializing i
   - Asynchronous Copy & Computation
   - Academic Paper Submission
 
-- **QA Engineer at MSTC** (2020.06 - 2020.10)
-  - Automated Test Process Improvement
-  - GUI Test Script Debugging
-  - Test Scenario Design
-  - New Feature Testing
-
 ## 📫 Connect With Me
 
 <div align="center">
