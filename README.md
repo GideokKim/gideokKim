@@ -17,6 +17,9 @@
   <a href="https://www.credly.com/badges/6fab7fd6-df48-4c65-966d-998eb8510047">
     <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure AI Fundamentals" width="150" height="150">
   </a>
+  <a href="https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/bzJiZVA2UnhFMjRaZHdUTm9ZajB2Zz09">
+    <img src="https://nlp.netlearning.co.jp/api/v1.0/openbadge/v2/BadgeClass/TTVtNkk5Q3VOd1N1d1RDdXlQN1BmUT09/Image" alt="AICE Associate" width="150" height="150">
+  </a>
 </div>
 
 ## 👨‍💻 About Me
