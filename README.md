@@ -5,12 +5,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gideokKim&exclude_repo=GideokKim.github.io&show_icons=true&theme=radical&hide=Jupyter%20Notebook,HTML" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideokKim&theme=radical&layout=compact&exclude_repo=GideokKim.github.io&show_icons=true&hide=Jupyter%20Notebook,HTML,SCSS,javascript,CSS,Ruby" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=gideokKim&exclude_repo=GideokKim.github.io&show_icons=true&theme=radical&hide=Jupyter%20Notebook,HTML" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gideokKim&theme=radical&layout=compact&exclude_repo=GideokKim.github.io&show_icons=true&hide=Jupyter%20Notebook,HTML,SCSS,javascript,CSS,Ruby" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gideokKim&theme=radical&row=2&column=5" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=gideokKim&theme=radical&row=2&column=5" />
 </div>
 
 <div align="center">
